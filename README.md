@@ -7,7 +7,7 @@ Este es un proyecto realizado que forma parte de una charla brindada a cualquier
 
 # Pre-requisitos 📋
 Para poder poner a prueba los comandos y comenzar a utilizar Git deben previamente instalar Git en sus sistemas. Para ello recomendamos leer el siguiente instructivo:\
-Git: [Instructivo de instalación](https://drive.google.com/uc?id=1IhpPuwUUyzkZhi2q86S1nqp6E8F339aO&export=download)
+Git: [Instructivo de instalación](https://drive.google.com/uc?id=1IhpPuwUUyzkZhi2q86S1nqp6E8F339aO&export=download)\
 __Nota:__ Para instalar Git solo es necesario realizar el primer paso de instalación, no es necesario descargar GitHub Desktop si van a utilizar Git desde consola.
 
 # Enlace del video a la charla Git en un nuestro canal ⚙️
