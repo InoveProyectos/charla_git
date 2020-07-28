@@ -6,8 +6,9 @@ Web: [Inove](http://inove.com.ar)
 Este es un proyecto realizado que forma parte de una charla brindada a cualquiera que quiera introducirse en el mundo del uso de Git y en el control de versión de sus proyectos. Está enfocada tanto para aquellos que no tienen experiencia previa con Git como para aquellos que utilizan el sistema con alguna interfaz gráfica y desean aprender el idioma nativo de Git para su manejo por consola para poder utilizarlo en cualquier plataforma o sistema.
 
 # Pre-requisitos 📋
-Para poder poner a prueba los comandos y comenzar a utilizar Git deben previamente instalar Git en sus sistemas. Para ello recomendamos leer el siguiente instructivo:
+Para poder poner a prueba los comandos y comenzar a utilizar Git deben previamente instalar Git en sus sistemas. Para ello recomendamos leer el siguiente instructivo:\
 Git: [Instructivo de instalación](https://drive.google.com/uc?id=1IhpPuwUUyzkZhi2q86S1nqp6E8F339aO&export=download)
+__Nota:__ Para instalar Git solo es necesario realizar el primer paso de instalación, no es necesario descargar GitHub Desktop si van a utilizar Git desde consola.
 
 # Enlace del video a la charla Git en un nuestro canal ⚙️
 Enlace: [Charla git](https://www.youtube.com/channel/UCwMey2qq3SDpS2Sl3CnjLEA/featured?view_as=subscriber)
