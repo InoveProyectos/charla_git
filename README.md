@@ -2,7 +2,7 @@
 Inove Escuela de Código - Trabajamos en pos de que nuestros alumnos logren sus metras personales y profesionales\
 info@inove.com.ar\
 Web: [Inove](http://inove.com.ar)
-# Charla Git/Github! 💻
+# Charla Git/Github! :octocat:
 Este es un proyecto realizado que forma parte de una charla brindada a cualquiera que quiera introducirse en el mundo del uso de Git y en el control de versión de sus proyectos. Está enfocada tanto para aquellos que no tienen experiencia previa con Git como para aquellos que utilizan el sistema con alguna interfaz gráfica y desean aprender el idioma nativo de Git para su manejo por consola para poder utilizarlo en cualquier plataforma o sistema.
 
 # Pre-requisitos 📋
