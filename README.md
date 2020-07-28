@@ -47,7 +47,7 @@ Para deshacer todos los cambios actuales no commitiados (se debe agregar el punt
 ```
 git checkout .
 ```
-Para volver descargar los cambios de un archivo en específico
+Para deshacer un cambio de un archivo en específico
 ```
 git checkout [nombre_archivo]
 ```
@@ -55,7 +55,7 @@ Para poder ver el historial de cambios y commits realizados
 ```
 git log
 ```
-Para poder ver el historial de cambios y que archivos se modificó
+Para poder ver el historial de cambios y que archivos se modificó en cada uno
 ```
 git log -p
 ```
