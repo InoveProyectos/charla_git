@@ -11,7 +11,7 @@ Git: [Instructivo de instalación](https://drive.google.com/uc?id=1IhpPuwUUyzkZh
 __Nota:__ Para instalar Git solo es necesario realizar el primer paso de instalación, no es necesario descargar GitHub Desktop si van a utilizar Git desde consola.
 
 # Enlace del video a la charla Git en un nuestro canal ⚙️
-Enlace: [Charla git](https://www.youtube.com/channel/UCwMey2qq3SDpS2Sl3CnjLEA/featured?view_as=subscriber)
+Enlace: [Charla git](https://youtu.be/fbO8SHAzDQw)
 
 Enlace: [Canal de Inove](https://www.youtube.com/channel/UCwMey2qq3SDpS2Sl3CnjLEA/featured?view_as=subscriber)
 
