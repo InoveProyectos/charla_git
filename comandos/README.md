@@ -12,5 +12,5 @@
 8- Cuando hayamos completado la edición de todos los commits, el sistema finalizará con "Successfully rebased and updated "\
 9- Pushear lo cambios con "git push -f" para actualizar el repositorio remoto.
 
-Referencia:
+Referencia:\
 https://stackoverflow.com/questions/3042437/how-to-change-the-commit-author-for-one-specific-commit
